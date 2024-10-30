@@ -17,6 +17,7 @@ wordcloud = "^1.9.3"
 text-clean = "^0.1.5"
 scikit-learn = "^1.5.2"
 chardet = "^5.2.0"
+gensim = "^4.3.3"
 
 
 [build-system]
